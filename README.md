@@ -1,0 +1,1 @@
+# ScientificPaper_ThePotentialOfGraphQLAsAnAlternativeToREST
